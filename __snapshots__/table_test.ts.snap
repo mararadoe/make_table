@@ -1,0 +1,11 @@
+export const snapshot = {};
+
+snapshot[`make table 1`] = `
+"┌──────┬──────┐
+│ h1   │ h2   │
+├──────┼──────┤
+│ col1 │ col2 │
+├──────┼──────┤
+│ col3 │ col4 │
+└──────┴──────┘"
+`;
